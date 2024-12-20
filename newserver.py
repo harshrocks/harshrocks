@@ -2,7 +2,7 @@ import socket
 from _thread import *
 import pydirectinput as pd
 
-
+# https://drive.google.com/file/d/17nQ2-FaVAxh-0wimkYALywR20lHn5bwm/view
 ServerSocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 host = '192.168.43.174'
 print(host)
